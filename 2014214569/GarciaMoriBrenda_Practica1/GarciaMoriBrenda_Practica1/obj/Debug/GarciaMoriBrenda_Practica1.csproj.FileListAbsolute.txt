@@ -1,0 +1,9 @@
+C:\Users\Princesa\Documents\Visual Studio 2013\Projects\RepositorioProgra\2013215462\2014214569\GarciaMoriBrenda_Practica1\GarciaMoriBrenda_Practica1\bin\Debug\GarciaMoriBrenda_Practica1.exe.config
+C:\Users\Princesa\Documents\Visual Studio 2013\Projects\RepositorioProgra\2013215462\2014214569\GarciaMoriBrenda_Practica1\GarciaMoriBrenda_Practica1\obj\Debug\GarciaMoriBrenda_Practica1.csprojResolveAssemblyReference.cache
+C:\Users\Princesa\Documents\Visual Studio 2013\Projects\RepositorioProgra\2013215462\2014214569\GarciaMoriBrenda_Practica1\GarciaMoriBrenda_Practica1\bin\Debug\GarciaMoriBrenda_Practica1.exe
+C:\Users\Princesa\Documents\Visual Studio 2013\Projects\RepositorioProgra\2013215462\2014214569\GarciaMoriBrenda_Practica1\GarciaMoriBrenda_Practica1\bin\Debug\GarciaMoriBrenda_Practica1.pdb
+C:\Users\Princesa\Documents\Visual Studio 2013\Projects\RepositorioProgra\2013215462\2014214569\GarciaMoriBrenda_Practica1\GarciaMoriBrenda_Practica1\obj\Debug\GarciaMoriBrenda_Practica1.exe
+C:\Users\Princesa\Documents\Visual Studio 2013\Projects\RepositorioProgra\2013215462\2014214569\GarciaMoriBrenda_Practica1\GarciaMoriBrenda_Practica1\obj\Debug\GarciaMoriBrenda_Practica1.pdb
+C:\Users\Princesa\Documents\Visual Studio 2013\Projects\RepositorioProgra\2014214569\GarciaMoriBrenda_Practica1\GarciaMoriBrenda_Practica1\bin\Debug\GarciaMoriBrenda_Practica1.exe.config
+C:\Users\Princesa\Documents\Visual Studio 2013\Projects\RepositorioProgra\2014214569\GarciaMoriBrenda_Practica1\GarciaMoriBrenda_Practica1\obj\Debug\GarciaMoriBrenda_Practica1.exe
+C:\Users\Princesa\Documents\Visual Studio 2013\Projects\RepositorioProgra\2014214569\GarciaMoriBrenda_Practica1\GarciaMoriBrenda_Practica1\obj\Debug\GarciaMoriBrenda_Practica1.pdb
